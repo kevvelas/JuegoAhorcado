@@ -1,1 +1,1 @@
-palabras = ["teclado"]
+palabras = ["victoria"]
